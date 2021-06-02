@@ -1,0 +1,116 @@
+@media (min-width: 0px) and (max-width:575px) {
+    .phone {
+        display: none;
+    }
+    .banner-content h5 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .banner-content h1 {
+        font-size: 45px;
+        margin: 10px 0;
+        text-align: center;
+    }
+    .banner-content p {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 20px !important;
+    }
+    .btn-download, .btn-features {
+        padding: 9px 10px;
+        font-size: 14px;
+    }
+    .banner-content {
+        text-align: center;
+        min-height: 100vh;
+    }
+    .feature_section {
+        margin-top: 0 !important;
+    }
+    .features_item {
+        margin-top: 0 !important;
+    }
+    .design_two img {
+        width: 100%;
+        text-align: center;
+    }
+    .design_two span {
+        margin: 20px 0;
+    }
+    .design_two p {
+        margin-bottom: 15px;
+    }
+    .design_two {
+        margin-top: 20px;
+    }
+    .heading .col-md-12 {
+        margin:0 !important;
+    }
+    .testimonials p {
+        font-size: 20px;
+        text-align: center;
+    }
+    .client {
+        width: 80%;
+        margin: auto;
+    }
+    .client_des h5 {
+        color: #fff;
+        font-size: 24px;
+    }
+    .client_des {
+        margin-left: 20px;
+    }
+    .client_des h2 {
+        font-size: 14px;
+    }
+    .owl-dots {
+        margin: 0;
+        position: absolute;
+        bottom: 15px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .Black_Banner {
+        text-align: center !important;
+    }
+    .btn-download_one {
+        margin-left: 0  !important;
+    }
+    .Black_Banner h1 {
+        text-align: center;
+    }
+    .contact_form {
+        padding: 40px;
+        margin: auto;
+    }
+    .footer h1 {
+        font-size: 14px !important;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+}
+@media (min-width: 0px) and (max-width: 375px) {
+    .btn-features {
+        margin-left: 8px;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 320px) {
+    .btn-download, .btn-features{
+        margin-top: 20px !important;
+    }
+
+    .btn-features {
+        margin-left: 0;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+    }
+    .banner-content p {
+        margin-bottom: 0px !important;
+    }
+}
